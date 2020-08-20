@@ -181,10 +181,10 @@ function render()
     renderer.render(scene, camera);
 }
 
-const NUM_SPHERES = 100;
+const NUM_SPHERES = 110;
 
 // scale of each sphere
-const SPHERE_SCALE = 10;
+const SPHERE_SCALE = 12;
 
 // size of the random sphere spawn area
 const SPHERE_AREA = 120;
